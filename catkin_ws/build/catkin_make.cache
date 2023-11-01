@@ -1,0 +1,2 @@
+ball_tracking_pkg:test_py
+-DCATKIN_DEVEL_PREFIX=/home/merci/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/merci/catkin_ws/install -G Unix Makefiles

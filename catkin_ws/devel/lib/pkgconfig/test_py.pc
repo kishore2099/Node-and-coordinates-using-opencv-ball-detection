@@ -1,0 +1,8 @@
+prefix=/home/merci/catkin_ws/devel
+
+Name: test_py
+Description: Description of test_py
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime sensor_msgs
